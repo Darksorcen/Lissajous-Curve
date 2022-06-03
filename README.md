@@ -1,9 +1,9 @@
 # Lissajous Curve!
 
 ### So it's an implementation of lissajousous curves in pygame.
-![lissajous_curve_image](https://user-images.githubusercontent.com/84326264/171854263-f2768363-b3e5-494c-9fc1-7c5137976678.png)
+![lissajous_curve](https://user-images.githubusercontent.com/84326264/171856237-f5cac284-1470-4582-bb80-e98a4cca0a8a.png)
 
-## *Lissajous Curve*
+## Lissajous Curve
 
 ### Basically the parametric equation is :
 ### *x = Asin(at + θ)*

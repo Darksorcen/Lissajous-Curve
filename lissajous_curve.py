@@ -24,7 +24,7 @@ while run:
             if event.key == pygame.K_ESCAPE:
                 run = False
             if event.key == pygame.K_SPACE:
-                animate = False
+                animate = not(animate)
             if event.key == pygame.K_r or event.key == pygame.K_LEFT:
                 a += 1
             if event.key == pygame.K_t or event.key == pygame.K_RIGHT and a > 0:
